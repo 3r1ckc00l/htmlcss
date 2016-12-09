@@ -1,2 +1,2 @@
 # htmlcss
-create html css -> edit from localhost
+create html css -> edit from localhosts
