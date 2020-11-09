@@ -1,5 +1,11 @@
-# htmlcss
-create html css -> with twig dynamically templates
+# html/css
+default template -> with twig for dynamically templates
 
-# run
+# installation
+$composer require "twig/twig:^3.0"
+
+# run on localhost
 http://localhost/app/index.php
+
+# reference
+https://twig.symfony.com/
